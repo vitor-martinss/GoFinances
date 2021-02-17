@@ -7,15 +7,10 @@ This project is an application that helps anyone to manage their financial accou
 
 ## 💻 Screens
 
-<p float="left">
-  <img src="/readme.assets/home.png" width="200" />
-  <img src="/readme.assets/import.png" width="200" /> 
-</p>
 
-<p float="left">
-  <img src="/readme.assets/home-mob.png" width="200" />
-  <img src="/readme.assets/import-mob.png" width="200" /> 
-</p>
+<img src="/readme.assets/home.png" />
+<img src="/readme.assets/import.png" /> 
+
 
 
 ## 🚀 Technologies
